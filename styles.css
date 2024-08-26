@@ -1,0 +1,18 @@
+/* general body style*/
+body{
+     background-color:antiquewhite
+     margin: 0;
+     padding 0:
+     font-family: aerial, helvetica
+}
+/* header style*/
+header 
+{background-color: rgb(17, 6, 63);
+color: bisque;
+text-align: center;
+padding: 30px;
+/*profile imagestyling*/
+.profile-pic 
+{width: 150px; 
+height: 150px; }
+border-radius: 50%;
